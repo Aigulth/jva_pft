@@ -2,7 +2,7 @@ package ru.stqa.pft.sandbox;
 
 import java.util.Scanner;
 
-public class MyFirstProgram {
+public class SimpleCalc {
 
   public static void main(String[] args) {
     Scanner in = new Scanner(System.in);
